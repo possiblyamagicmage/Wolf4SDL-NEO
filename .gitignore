@@ -5,11 +5,11 @@
 *.dll
 *.exe
 *.so
-*.wl1
-*.wl3
-*.wl6
-*.sdm
-*.sod
+#*.wl1
+#*.wl3
+#*.wl6
+#*.sdm
+#*.sod
 
 # Intermediate source #
 ###################
